@@ -1,0 +1,11 @@
+<HEAD>
+ <TITLE>How to Carve Wood</TITLE>
+ <STYLE type="text/css">
+  DIV.mypars {text-align: right}
+ </STYLE>
+<BODY>
+ <DIV class="mypars">
+  <P>...text in first paragraph...
+  <P>...text in second paragraph...
+  <P>...text in third paragraph...
+ </DIV>
